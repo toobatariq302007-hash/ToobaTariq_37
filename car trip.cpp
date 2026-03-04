@@ -8,7 +8,7 @@ int main()
     cout << "Enter fuel: ";
     cin >> fuel;
 
-    cout << "Enter number of trips: ";
+    cout << "Enter number of trips in the dauy: ";
     cin >> trips;
 
     fuel = fuel - (trips * 2);
